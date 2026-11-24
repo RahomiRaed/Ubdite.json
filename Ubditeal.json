@@ -1,6 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "3.1.0",
-  "apkUrl": "https://github.com/Rahomi1/myapp/raw/refs/heads/main/GOMAX_3.5v.apk",
-  "changelog": "تحسينات واصلاح مشاكل ضهرت في التحديث السابق"
+  "versionCode": 6,
+  "versionName": "3.3",
+  "downloadUrl": "https://github.com/RahomiRaed/Ubdite.json/releases/latest",
+  "changelog": "test",
+  "force": false
 }
